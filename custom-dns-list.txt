@@ -1,2 +1,2 @@
-exemple.ru
-1.exemple.com
+technical.city
+*.technical.city
